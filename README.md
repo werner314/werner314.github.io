@@ -2,7 +2,7 @@
 Werner Dominic Pienaar
 ===========
 
-> (email: wd.pienaar\@live.co.za - phone: +2779-377-8716)
+> (email: wd.pienaar\@outlook.com - phone: +2779-377-8716)
 
 
 SUMMARY
