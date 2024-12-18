@@ -95,7 +95,7 @@ CONTACT INFORMATION
 -----------
 
 - phone: +2779-377-8716
-- email: wd.pienaar\@live.co.za
+- email: wd.pienaar\@outlook.com
 - website: http://werner314.github.io
 - LinkedIn: https://www.linkedin.com/in/werner314
 - GitHub: https://github.com/werner314
