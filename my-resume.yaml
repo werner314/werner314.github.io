@@ -1,0 +1,109 @@
+cv:
+  name: Werner D Pienaar
+  location: KwaZulu-Natal, South Africa
+  email: werner.exe@outlook.com
+  website:
+  social_networks:
+    - network: LinkedIn
+      username: werner314
+    - network: GitHub
+      username: werner314
+
+  sections:
+    professional_summary:
+      - bullet: >
+          Systems-focused professional with strong experience in Linux system administration,
+          business process support, automation, and reporting. Proven ability to support users,
+          maintain and improve software systems, and transform disorganized workflows into
+          efficient, structured processes. Strong Python background with recent focus on data
+          analysis and reporting.
+
+    core_skills:
+      - label: Systems Administration
+        details: Linux (Apache, Nginx, MySQL, SMTP, iptables), Cloud (AWS, GCP, CloudFlare)
+      - label: Scripting & Automation
+        details: Python, Bash, custom shell scripts, basic PowerShell
+      - label: Data & Reporting
+        details: Python (pandas, NumPy, BeautifulSoup), advanced Excel, data capture and reconciliation
+      - label: Business Systems
+        details: WordPress, QuickBooks, POS systems, RFID timing systems
+      - label: User Support
+        details: Windows PC troubleshooting, office equipment support, end-user assistance
+      - label: Security Awareness
+        details: Basic penetration testing, network defense, monitoring and logging
+      - label: Process Improvement
+        details: Workflow documentation, system cleanup, automation of manual processes
+      - label: Creative & Design
+        details: GIMP, Inkscape, Adobe Suite (basic), Canva
+    
+    work_experience:
+      - company: eHowzit.co.za
+        position: Systems Administrator & Web Developer
+        start_date: 2015-07
+        end_date: 2019-11
+        location: Shelly Beach, KZN, South Africa
+        summary: Local news and advertising website
+        highlights:
+          - Developed and maintained the eHowzit news website and multiple client websites using WordPress
+          - Set up and administered Linux servers running Apache/Nginx, MySQL, SMTP, and iptables firewalls
+          - Wrote custom shell scripts for logging, reporting, and automated backups
+          - Migrated services from a monolithic VPS to AWS, improving reliability and reducing costs
+          - Implemented basic cyber security practices and performed vulnerability testing using nmap, Metasploit, and Burp Suite
+          - Provided day-to-day IT support to journalists, designers, and sales staff
+          - Assisted with light graphic design, video editing, and Microsoft Office document templates
+
+      - company: Natal WFO Enduro Club
+        position: RaceControl™ Time Keeper (Part-Time)
+        start_date: 2017-01
+        end_date: 2019-12
+        location: KwaZulu-Natal, South Africa
+        summary:
+        highlights:
+          - Operated the RaceControl RFID timing system during competitive events
+          - Extracted, validated, and processed race data using Excel
+          - Assisted with accurate reporting of race results under time-sensitive conditions
+
+      - company: Ramsgate BP Garage
+        position: Cashier / Fuel Attendant & Administrative Support
+        start_date: 2020-04
+        end_date: 2021-07
+        location: Ramsgate, KZN, South Africa
+        summary:
+        highlights:
+          - Performed cashier and forecourt duties in a high-volume retail environment
+          - Assisted management with cash-up procedures and POS system operations
+          - Captured operational and financial data into an Excel-based booking system
+          - Supported administrative tasks beyond core role due to technical aptitude
+
+      - company: DK Supreme Bulk
+        position: Logistics Administrator & Data Coordinator
+        start_date: 2021-10
+        end_date: 2023-11
+        location: Springs, Gauteng, South Africa
+        summary: Logistics freight forwarder specializing in coal and grain transport
+        highlights:
+          - Ensured accurate and timely capture of logistics and operational data
+          - Produced routine operational and management reports
+          - Liaised daily with management and external stakeholders
+          - Rebuilt fragmented spreadsheets into a structured Excel-based data capture and invoicing system
+          - Implemented QuickBooks to improve invoicing accuracy and financial control
+
+    professional_development:
+      - bullet: >
+          Career break since late 2023 as a full-time musician, while actively upskilling through
+          self-study in Python data analysis, including pandas, NumPy, and web data extraction
+          with BeautifulSoup, as well as continued experimentation with Linux systems and automation.
+
+    education:
+      - institution: Esayidi FET College
+        area: Electrical Engineering N4
+        degree: 
+        start_date: 2012-05
+        end_date: 2014-11
+        location: Port Shepstone
+        summary:
+        highlights:
+
+    other_interests:
+      - I'm a Bass Guitarist and I perform regularly with various acts.
+
